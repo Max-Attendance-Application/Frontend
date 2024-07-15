@@ -4,7 +4,7 @@ Clone & start application manual.
 
 1. Clone repository
 ```
-git clone https://github.com/lafathalfath/maxsamasta.git
+git clone https://github.com/Max-Attendance-Application/Frontend
 ```
 2. Install node_modules
 ```
